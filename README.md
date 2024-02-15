@@ -15,3 +15,16 @@ The analysis utilizes various quantitative techniques to examine key metrics and
 4) Risk-Return Trade-off Analysis: Analyzing the balance between the potential risks and rewards of different stocks, aiding in portfolio management.
 
 # Requirements:
+1) jupyter Notebook
+2) pandas - It is an open-source data manipulation and analysis library.
+   ```bash
+   %pip install pandas
+3) plotly - It is an interactive data visualization library that allows you to create interactive and visually appealing plots and dashboard.
+   ```bash
+   %pip install plotly
+4) nbformat - is a Python library that provides tools for working with Jupyter notebooks.
+   ```bash
+   %pip install nbformat
+
+
+   
