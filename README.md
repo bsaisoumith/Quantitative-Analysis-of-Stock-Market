@@ -25,6 +25,3 @@ The analysis utilizes various quantitative techniques to examine key metrics and
 4) nbformat - is a Python library that provides tools for working with Jupyter notebooks.
    ```bash
    %pip install nbformat
-
-
-   
