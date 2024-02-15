@@ -1,0 +1,64 @@
+Key Characteristics:
+
+Ticker: The stock ticker symbol.
+    "AAPL" - Apple Inc.
+    "GOOG" - Google/Alphabet Inc.
+    "MSFT" - Microsoft Corporation
+    "NFLX" - Netflix Inc.
+Date: The specific trading date.
+Open: Opening price of the stock for the day.
+High: Highest price point of the stock during the day.
+Low: Lowest price point during the day.
+Close: Closing price of the stock.
+Adj Close: Adjusted closing price, factoring in corporate actions like splits.
+Volume: Total trading volume of the stock.
+
+1) Trend Analysis: Identifying long-term trends in stock prices and market movements.
+2) Volatility Assessment: Evaluating the stability and risk associated with different stocks based on their price fluctuations.
+3) Correlation Study: Investigating how different stocks correlate with each other, understanding market segments and diversification opportunities.
+4) Risk-Return Trade-off Analysis: Analyzing the balance between the potential risks and rewards of different stocks, aiding in portfolio management.
+
+
+Volatility Analysis:
+
+- Volatility analysis refers to the examination of the degree of variation of a trading price series over time. 
+- In financial markets, volatility is a key indicator of the level of risk or uncertainty associated with an asset. 
+- Traders and investors often use volatility analysis to make informed decisions about trading strategies, risk management, and portfolio allocation
+Volatility Index (VIX): often referred to as the "fear gauge." popular measure of market volatility. It represents the market's expectations for future volatility 
+
+Correlation Analysis:
+
+- Correlation analysis is a statistical method used to evaluate the strength and direction of the linear relationship between two or more variables. 
+- In financial markets, correlation analysis is commonly applied to study the relationship between the returns of different assets.
+- Helping investors and analysts understand how assets move relative to each other.
+
+r = correlation coefficient
+    r=1 indicates a perfect positive correlation.  - An increase in one variable tends to be associated with an increase in the other
+    r=−1 indicates a perfect negative correlation.  - An increase in one variable is associated with a decrease in the other
+    r=0 indicates no linear correlation.            - If there is little to no linear relationship between the variable
+
+Correlation matrix: In financial markets, analysts often use a correlation matrix to display the correlation coefficients between multiple assets. 
+A correlation matrix provides a comprehensive view of how assets move relative to each other.
+
+
+Comparative Analysis:
+
+-  Comparative analysis in the stock market involves evaluating and comparing various aspects of different stocks or investment 
+   opportunities to make informed investment decisions. 
+-  Investors use comparative analysis to assess the relative strengths, weaknesses, risks, and potential returns of individual 
+   stocks or to compare them to market indices, industry peers, or other benchmarks. 
+-  To compare the performance of different stocks based on their returns over the period.
+-  To calculate the percentage change in closing prices from the start to the end of the period for each stock.
+
+
+Daily Risk Vs. Return Analysis:
+
+- Daily risk vs. Return analysis involves examining the relationship between the daily returns and associated risks (volatility) 
+  of individual stocks, portfolios, or indices. 
+- This analysis is crucial for investors and traders to assess the trade-off between potential returns and the level of risk associated with their investments.
+- Daily Returns = (Closing Price (i) - Closing Price (i-1) / Closing Price (i-1) ) / 100
+- Daily volatility measures the degree of variation in daily returns and is often represented as the standard deviation of daily returns.
+- Sharpe ratio is which measures the excess return per unit of risk 
+  Sharpe Ratio = Average Daily Return / Standard Deviation of Daily Returns.
+
+ 
