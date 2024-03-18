@@ -45,8 +45,8 @@ df = pd.DataFrame()
 # Fetch historical stock data for each company and append to DataFrame
 for company, ticker in companies.items():
     stock_data = yf.download(ticker, start=start_date, end=end_date)
-    stock_data['Company'] = company  # Add company name as a column
-    df = pd.concat([df, stock_data])  # Concatenate the DataFrame with stock_data
+    stock_data['Company'] = company  
+    df = pd.concat([df, stock_data])  
 
 # Save DataFrame to a CSV file
 df.to_csv('bse_sensex_companies_stocks_fy22_fy23.csv')
